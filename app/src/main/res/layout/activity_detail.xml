@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollable"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/detailed_item_picture"
+            android:layout_width="250dp"
+            android:layout_height="400dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="24dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/detailed_item_name"
+            app:srcCompat="@drawable/arapaima" />
+
+        <TextView
+            android:id="@+id/detailed_item_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="@string/fish_name"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            android:textColor="@color/dark_teal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/detailed_title_description"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/fish_title_description"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/dark_yellow"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/detailed_item_picture" />
+
+
+        <TextView
+            android:id="@+id/detailed_item_description"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="16dp"
+            android:text="@string/fish_description"
+            app:layout_constraintBottom_toTopOf="@+id/action_share"
+            app:layout_constraintEnd_toEndOf="@+id/detailed_title_description"
+            app:layout_constraintStart_toStartOf="@+id/detailed_title_description"
+            app:layout_constraintTop_toBottomOf="@+id/detailed_title_description" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/action_share"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:clickable="true"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:srcCompat="@android:drawable/ic_menu_share"
+            android:focusable="true"
+            android:contentDescription="@string/share_description"/>
+
+        <TextView
+            android:id="@+id/detailed_title_location"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:textColor="@color/dark_yellow"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/fish_title_location"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/detailed_item_picture"
+            app:layout_constraintTop_toTopOf="@+id/detailed_item_picture" />
+
+        <TextView
+            android:id="@+id/detailed_item_location"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/fish_location"
+            app:layout_constraintEnd_toEndOf="@+id/detailed_title_location"
+            app:layout_constraintStart_toStartOf="@+id/detailed_title_location"
+            app:layout_constraintTop_toBottomOf="@+id/detailed_title_location" />
+
+        <TextView
+            android:id="@+id/detailed_title_size"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/dark_yellow"
+            android:text="@string/fish_title_size"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/detailed_item_location"
+            app:layout_constraintStart_toStartOf="@+id/detailed_item_location"
+            app:layout_constraintTop_toBottomOf="@+id/detailed_item_location"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/detailed_item_size"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/fish_size"
+            app:layout_constraintEnd_toEndOf="@+id/detailed_title_size"
+            app:layout_constraintStart_toStartOf="@+id/detailed_title_size"
+            app:layout_constraintTop_toBottomOf="@+id/detailed_title_size" />
+
+        <TextView
+            android:id="@+id/detailed_title_price"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/dark_yellow"
+            android:text="@string/fish_title_price"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/detailed_item_size"
+            app:layout_constraintStart_toStartOf="@+id/detailed_item_size"
+            app:layout_constraintTop_toBottomOf="@+id/detailed_item_size" />
+
+        <TextView
+            android:id="@+id/detailed_item_price"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/fish_price"
+            app:layout_constraintEnd_toEndOf="@+id/detailed_title_price"
+            app:layout_constraintStart_toStartOf="@+id/detailed_title_price"
+            app:layout_constraintTop_toBottomOf="@+id/detailed_title_price" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</ScrollView>

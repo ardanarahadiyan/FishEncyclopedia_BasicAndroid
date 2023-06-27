@@ -1,0 +1,16 @@
+Index: app/src/main/res/layout/activity_detail.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/layout/activity_detail.xml b/app/src/main/res/layout/activity_detail.xml
+--- a/app/src/main/res/layout/activity_detail.xml	
++++ b/app/src/main/res/layout/activity_detail.xml	(date 1678053479603)
+@@ -26,7 +26,6 @@
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="50dp"
+-            android:backgroundTint="#ECE3B7"
+             android:text="@string/fish_name"
+             android:textSize="30sp"
+             android:textStyle="bold"

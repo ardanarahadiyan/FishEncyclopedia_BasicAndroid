@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">Fish Encyclopedia</string>
+
+    <string name="fish_name">Fish Name</string>
+    <string name="fish_title_description">Description</string>
+    <string name="fish_description">Description of the fish is being displayed here.</string>
+    <string name="fish_title_location">Location</string>
+    <string name="fish_location">Fish Location</string>
+    <string name="fish_title_size">Size</string>
+    <string name="fish_size">Fish Size</string>
+    <string name="fish_title_price">Price</string>
+    <string name="fish_price">Fish Price</string>
+    <string name="profile_name">Ardana Rahadiyan Darojat</string>
+    <string name="profile_email">ardana.rahadiyan01@ui.ac.id</string>
+    <string name="share_description">Share this animal crossing fish information to others</string>
+    <string name="about">About</string>
+
+
+    <string-array name="data_name">
+        <item>Betta</item>
+        <item>Guppy</item>
+        <item>Pop-eyed Goldfish</item>
+        <item>Neon Tetra</item>
+        <item>Arapaima</item>
+        <item>Napoleonfish</item>
+        <item>Ocean Sunfish</item>
+        <item>Suckerfish</item>
+        <item>Barreleye</item>
+        <item>Coelacanth</item>
+        <item>Tuna</item>
+        <item>Ribbon Eel</item>
+        <item>Giant Trevally</item>
+        <item>Mahi-mahi</item>
+        <item>Catfish</item>
+        <item>Snapping Turtle</item>
+        <item>Giant Snakehead</item>
+        <item>Football Fish</item>
+        <item>Surgeonfish</item>
+        <item>Hammerhead Shark</item>
+        <item>Koi</item>
+        <item>Whale Shark</item>
+        <item>Zebra Turkeyfish</item>
+        <item>Butterfly Fish</item>
+        <item>Olive Flounder</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>The betta has long fins and beautiful coloring. It is a tropical fish popular in decorative aquariums. They are very territorial and will fight to complete exhaustion, so aquarists must keep them carefully. Rarely do such beauty and violence commingle outside the rowdiest of sunset-viewing parties.</item>
+        <item>The guppy, also called the millionfish due to its rapid breeding, is one of the most popular freshwater aquarium fish species in the world. It is native to Barbados, Brazil, Guyana, Netherlands Antilles, Trinidad and Tobago, the US Virgin Islands and Venezuela. The fish was discovered in 1866 in Trinidad by Robert John Lechmere Guppy, hence the name, and the latin name was originally put forward by Albert Günther as Girardinus guppii. However it had already been described under P. reticulata, and G. guppii has become a Junior synonym, but the common name still continues to dedicate its finder. Poeciliata is from Poecile referring to its small size, and reticulata comes from Reticulate referring to its vast network of patterns.</item>
+        <item>Carassius auratus, the goldfish, a close relative to the crucian carp, has been domestically bred into an array of different shapes, sizes and colors. The Popeyed Goldfish breed is a harmless fish that once released lives in slow-flowing ponds, ditches, rivers, and lakes. It feeds off of small insects, crustaceans, and plants. It is a specially bred type of goldfish with large, protruding eyes, which to the surprise of some gives it poor eyesight as a result of heavy inbreeding.</item>
+        <item>Neon tetra are native to backwater and clear water streams in southeastern Columbia, eastern Peru and western Brazil, living in the Amazon river. It is originally from South America. It is a popular aquarium fish, mainly due to its unique coloration. It has a light-blue back that meets a silver-white abdomen, with a red and blue stripe in between them. It is however, transparent. During the night, when the neon tetra is inactive, it loses its red and blue stripe, which turns silver.</item>
+        <item>The arapaima (Arapaima gigas) is the largest freshwater fish in the world. It inhabits the Amazon River in the continent of South America. It is sometimes alternatively called the pirarucu or paiche. The fish can grow to a maximum length of around three meters (ten feet). The male of the species is a mouthbrooder like the arowana, meaning the young are protected in its mouth until they are older. The female arapaima helps to protect the male and the young by circling around them to keep them from straying and fending off potential predators. Their red coloration comes from their diet of crustaceans.</item>
+        <item>The Napoleonfish is the largest wrasse species (family Labridae), and one of the largest coral reef fish. Today, this specific creature is better known as the humphead wrasse, but in a few places, it is called the Napoleon or Maori wrasse. Males may reach up to 6 feet or 2 meters in length, while females are half the size. Humphead wrasse have become endangered due to overfishing, where juveniles are captured and raised until they reach a larger size, where they are sold. While it can live for up to 30 years (25 for males), its slow breeding rate puts it in danger if its numbers decline too greatly. Like its relatives, it is born female and may change gender around a decade old.</item>
+        <item>The Ocean Sunfish (genus Mola) is the type species of its family, Molidae. Its range is fairly widespread, being found in both temperate and tropical oceans. The word Mola is Latin for millstone. They are closest in relation to two other fish in Animal Crossing, the Blowfish and the Pufferfish. When resting the Ocean sunfish will lay down on its side just below the oceans surface. Their diet consistes of mostly jellyfish. Due to the makeup of their skull, ocean sunfish are unable to completely close their mouths.</item>
+        <item>Also known as the remora and sharksucker, the suckerfish (Remora remora) has a modified dorsal fin which it may use like a suction cup, creating a vacuum seal on larger marine creatures such as sharks and whales. They receive food and transportation from their hosts.</item>
+        <item>The barreleye is a deep-sea fish found in tropical-to-temperate waters of the Atlantic, Pacific, and Indian Oceans. It has been known to science since 1939, but was never photographed until 2004. It is characterized by its seemingly-transparent head (caused by cartilage), with its green namesake eyes embedded within. These eyes are normally situated upwards, allowing the fish to spot potential predators and prey, but they can also be turned forwards.</item>
+        <item>The West Indian Ocean coelacanth is a type of fish that was thought to have gone extinct long ago until it was rediscovered in 1938 off the coast of South Africa. It is considered to have evolved into its current form over 400 million years ago. They are large fish that can grow up to 1.8m in length. They are mostly active at night, between the depths of 100 and 500m, and feed mostly on fish that they come across. Whilst little remains known about the life of the coelacanth, they have been observed to have shark bite scars, suggesting they are prey to the large predators of the deep ocean.</item>
+        <item>Tuna can reach almost 10 feet in length and weigh over 800 pounds, which is huge in the fish world. Combining this great size with their good flavor makes them literally the biggest catch for most anglers. Tuna cannot breathe when they are not moving, so their entire lives revolve around constantly swimming. To sleep, they merely slow down. This ability to swim while sleeping is a huge advantage. They are also rather fast, capable of beating both sets of fins so hard they reach speeds of 50 mph.</item>
+        <item>Ribbon eels have long, ribbonlike bodies and look as if they have flowers sprouting from their noses. They get their name from their bright, vivid color, in addition to the length of their bodies. Ribbon eels hatch sexless before first becoming males, then females as they age. Their tendency to stick their heads out from holes in the sand and open their mouths is not a sign of anger. In actuality, they are merely taking a breath. Oddly, they are surprisingly peaceful creatures, despite the look.</item>
+        <item>The giant trevally (Caranx ignobilis) is a tropical species of trevally that is found throughout the Pacific and Indian Oceans. The species begins grey but darkens sometimes to black with age. The species is most popular as a gamefish, but in the past, it was also seen as a commercial fish albeit rarely. Ultimately selling the fish became illegal after investigations confirmed severe cases of ciguatera poisoning resulting from consuming the fish.</item>
+        <item>The name mahi-mahi (Coryphaena hippurus) comes from the Hawaiian language and means very strong. It is an active and inquisitive fish, often following ships and playing with floating seaweed such as Sargassum. They are common throughout the Atlantic, Pacific and Indian Oceans and can also be found in the Mediterranean Sea. As well as being fished for food, they are widely admired for its striking shape and beautiful colours.</item>
+        <item>Catfish have one of the greatest ranges in size within a single order of bony fish. Many catfish have a maximum length of less than twelve centimeters. Some of the smallest species of Aspredinidae and Trichomycteridae reach sexual maturity at only one centimeter (0.4 in). Many species have a slimy covering and can adapt to breathing on land for a while, like eels. The order Siluriformes as a whole are commonly caught in real life, usually in ponds or lakes. In some fiction, a pun is played on the name Catfish by making it have the head of a cat or referencing it otherwise. In some parts of the world catfish are consumed and are considered a delicacy.</item>
+        <item>The common snapping turtle (Chelydra serpentina) is a common reptile in North America. They live in ponds, streams, and occasionally can be found in the more brackish water of estuaries. True to its name, the common snapping turtle has a powerful bite, as well as a long and highly mobile neck which allows it to reach further to bite things. They are known for their aggressive disposition when out of water, and are rumored to be able to bite off fingers and toes. These turtles are long lived, and can reach an age of over 100 years.</item>
+        <item>The giant snakehead is the largest in the family Channidae, capable of growing to over one meter in length (three feet) and a weight of over 20 kilograms (40 pounds). They are very well-versed predators, and eat creatures ranging from small fish to other snakeheads. Many species of snakehead can be used as pets in aquariums, but most grow too large to be sustained in most tanks.</item>
+        <item>The Himantolophus groenlandicus or the Atlantic Football Fish is a type of football fish found in tropical and temperate bodies of water. They live deep underwater, in the midnight zone. Both genders have a gelatinous flesh which thickens in the females, the bacteria on their body also gives them a glowing appearance. Females are a lot bigger than males, ranging to about 40–60 cm in length. Females also have an esca (the growth coming from their head) which they use as a lure to catch smaller fish, cuttlefish or small crustaceans. Males are much smaller than females, the biggest recorded size being only 7 cm.</item>
+        <item>The surgeonfish, also known as the blue tang, is a tropical fish that lives in areas such as Japan, East Africa, Samoa, New Caledonia, and even the Great Barrier Reef, Australia. They change color when spawning, from a deep blue to a pale blue. The eggs hatch within 24 hours of fertilization, revealing small larvae with silvery abdomens. They are inedible and poisonous to humans, with a foul-smelling flesh and taste.</item>
+        <item>The smooth hammerheads name comes from its hammer-like bone structure from its head, which lacks any sort of central indentation. It is a rather common hammerhead shark, and the second largest after the great hammerhead. Its fins are valued for the delicacy shark fin soup.</item>
+        <item>Koi, more often known as Nishikigoi (meaning brocaded carp) is an ornamental fish of the common carp variety that is not known to occur naturally in the environment, at least not in its more colorfully distributed colorations. The colors of koi are from mutations in wild carp, and fish are hybridized and interbred to form the appearances we know today. These fish are very long living and they can last over 200 years, 226 years being the oldest recorded age for a koi, about 100 years older than the longest living human at the oldest recorded age being 126 years.</item>
+        <item>The whale shark (Rhincodon typus) is the largest fish in the world at 45 (or more) feet. It is found in open waters of the tropical oceans. Modeling suggests a lifespan of about 70 years but measurements have proven difficult. Whale sharks have very large mouths and are filter feeders. They feed mainly on plankton and are generally considered harmless to humans. They have five large pairs of gills. The head is wide and flat with two small eyes at the front. Whale sharks are grey with a white belly.</item>
+        <item>The luna lionfish (Pterois lunulata), also known as the Japanese lionfish is a small fish. It is not really the species known as the zebra turkeyfish. It is known as minokasago in Japan and is found in the Indo-Pacific region, east Asia and up to north Australia, Queensland and New Caledonia. It is harvested as a food source by fishermen who remove the toxic spines. They are found in rocky and open substrates with remote outcrops of reef or soft-bottom substrates at moderate depths.</item>
+        <item>The oriental butterflyfish is an Asian reef fish, and one of many different butterflyfish that are known to exist. Coral-eating butterflyfish are typically territorial in nature, and mated pairs will guard specific areas of coral viciously. In aquariums, butterflyfish are often prized for their coloration, however due to their diet most species are troublesome to maintain, and the species most often seen in domestic care are zooplankton feeders.</item>
+        <item>The olive flounder (also called the bastard halibut or Japanese halibut) is an Asian flatfish that occupies a large area of Asian flatfish taken for commercial reasons. Hirame as it is called in Japan or Korea Flatfish as it is known in Korea is widely raised in aquaculture in China, Korea, and Japan as a food fish. It is a very large type of flatfish that can be well over a meter in length which is far larger than most other species that typically never reach more than 30 cm.</item>
+    </string-array>
+
+    <integer-array name="data_picture">
+        <item>@drawable/betta</item>
+        <item>@drawable/guppy</item>
+        <item>@drawable/popeyed_goldfish</item>
+        <item>@drawable/neon_tetra</item>
+        <item>@drawable/arapaima</item>
+        <item>@drawable/napoleonfish</item>
+        <item>@drawable/ocean_sunfish</item>
+        <item>@drawable/suckerfish</item>
+        <item>@drawable/barreleye</item>
+        <item>@drawable/coelacanth</item>
+        <item>@drawable/tuna</item>
+        <item>@drawable/ribbon_eel</item>
+        <item>@drawable/giant_trevally</item>
+        <item>@drawable/mahi_mahi</item>
+        <item>@drawable/catfish</item>
+        <item>@drawable/snapping_turtle</item>
+        <item>@drawable/giant_snakehead</item>
+        <item>@drawable/football_fish</item>
+        <item>@drawable/surgeonfish</item>
+        <item>@drawable/hammerhead_shark</item>
+        <item>@drawable/koi</item>
+        <item>@drawable/whale_shark</item>
+        <item>@drawable/zebra_turkeyfish</item>
+        <item>@drawable/butterfly_fish</item>
+        <item>@drawable/olive_flounder</item>
+    </integer-array>
+
+    <string-array name="data_location">
+        <item>River</item>
+        <item>River</item>
+        <item>River</item>
+        <item>River</item>
+        <item>River</item>
+        <item>Ocean</item>
+        <item>Ocean</item>
+        <item>Deep Sea</item>
+        <item>Deep Sea</item>
+        <item>Deep Sea</item>
+        <item>Pier</item>
+        <item>Ocean</item>
+        <item>Pier</item>
+        <item>Pier</item>
+        <item>Pond</item>
+        <item>River</item>
+        <item>River</item>
+        <item>Deep Sea</item>
+        <item>Ocean</item>
+        <item>Ocean</item>
+        <item>Pond</item>
+        <item>Deep Sea</item>
+        <item>Ocean</item>
+        <item>Ocean</item>
+        <item>Ocean</item>
+    </string-array>
+
+    <string-array name="data_size">
+        <item>Small</item>
+        <item>Tiny</item>
+        <item>Tiny</item>
+        <item>Tiny</item>
+        <item>Huge</item>
+        <item>Huge</item>
+        <item>Huge (with fin)</item>
+        <item>Huge (with fin)</item>
+        <item>Small</item>
+        <item>Huge</item>
+        <item>Huge</item>
+        <item>Thin</item>
+        <item>Very Large</item>
+        <item>Very Large</item>
+        <item>Large</item>
+        <item>Large</item>
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Small</item>
+        <item>Huge (with fin)</item>
+        <item>Large</item>
+        <item>Huge (with fin)</item>
+        <item>Medium</item>
+        <item>Small</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>2.500 Bells</item>
+        <item>1.300 Bells</item>
+        <item>1.300 Bells</item>
+        <item>500 Bells</item>
+        <item>10.000 Bells</item>
+        <item>10.000 Bells</item>
+        <item>4.000 Bells</item>
+        <item>1.500 Bells</item>
+        <item>15.000 Bells</item>
+        <item>15.000 Bells</item>
+        <item>5.000 Bells</item>
+        <item>600 Bells</item>
+        <item>4.500 Bells</item>
+        <item>6.000 Bells</item>
+        <item>800 Bells</item>
+        <item>5.000 Bells</item>
+        <item>6.500 Bells</item>
+        <item>2.500 Bells</item>
+        <item>1.000 Bells</item>
+        <item>8.000 Bells</item>
+        <item>4.000 Bells</item>
+        <item>13.000 Bells</item>
+        <item>500 Bells</item>
+        <item>1.000 Bells</item>
+        <item>800 Bells</item>
+    </string-array>
+
+</resources>
